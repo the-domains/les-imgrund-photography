@@ -1,7 +1,7 @@
 name: Les Imgrund Photography
 favicon: null
-layout_spectrum: 0.07175202015787363
-typography_spectrum: 0.11072621820494533
+layout_spectrum: 0.23392123263329268
+typography_spectrum: 0.39874854520894587
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.16588100930675864
-  lightness: 0.12497495906427503
-  saturation: 0.613615594804287
-  rhythmicContrast: 0.37843204755336046
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.29013976152054965
+  lightness: 0.6679205724503845
+  saturation: 0.7585716615431011
+  rhythmicContrast: 0.35640492965467274
 purpose: []
